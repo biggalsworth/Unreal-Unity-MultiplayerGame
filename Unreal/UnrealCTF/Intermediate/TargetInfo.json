@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealCTF",
+			"Path": "..\\Source\\UnrealCTF.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealCTFEditor",
+			"Path": "..\\Source\\UnrealCTFEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

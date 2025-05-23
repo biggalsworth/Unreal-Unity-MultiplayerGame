@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\UnrealClient\\Game\\UnrealCTF\\Source\\UnrealCTF\\UnrealCTF.Build.cs",
+		"D:\\Github\\UnrealClient\\Game\\UnrealCTF\\Source\\UnrealCTF.Target.cs",
+		"D:\\Github\\UnrealClient\\Game\\UnrealCTF\\Source\\UnrealCTFEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
