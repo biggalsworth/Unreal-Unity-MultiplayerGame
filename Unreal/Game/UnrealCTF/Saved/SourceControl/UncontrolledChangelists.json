@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jukesb4/Documents/GitHub/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jukesb4/Documents/GitHub/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Basic.umap",
+				"C:/Users/jukesb4/Documents/GitHub/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/PlayerClient.uasset",
+				"C:/Users/jukesb4/Documents/GitHub/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Grenade/Grenade.uasset",
+				"C:/Users/jukesb4/Documents/GitHub/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Grenade/GrenadeLocal.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Basic.umap",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Blueprints/PlayerUI.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/PlayerClient.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/UI/crosshair.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Blueprints/GameUI.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Input/Actions/Leaderboard.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/UI/PlayerItem.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Maps/MapModel/CTFMap.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Grenade/Grenade.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Grenade/Beep_001.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Grenade/Grenade_001.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Grenade/GrenadeModel.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Grenade/Material_002.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Input/Actions/IAGrenade.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Grenade/Effects/ExplosionFX.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Grenade/GrenadeLocal.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Blueprints/BasicPhysics.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Health/HealthPickup.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Health/Container.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Health/Endings.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Health/Material_001.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Health/HealthMesh_Container.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/Health/HealthMesh_Health.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ItemPrefabs/GrenadeModel.uasset",
+				"D:/Github/UnrealClient/Game/UnrealCTF/Content/ThirdPerson/Blueprints/PlayerController.uasset"
+			]
+		}
+	]
+}

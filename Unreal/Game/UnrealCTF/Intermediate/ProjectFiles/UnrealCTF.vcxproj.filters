@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealCTF.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealCTF.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealCTFEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Temp.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealCTF">
+      <UniqueIdentifier>{8E3D9AF5-CFE3-3B11-BD0B-27B08B9D6F58}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealCTF\UnrealCTF.Build.cs">
+      <Filter>Source\UnrealCTF</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealCTF\UnrealCTF.cpp">
+      <Filter>Source\UnrealCTF</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCTF\UnrealCTF.h">
+      <Filter>Source\UnrealCTF</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealCTF\UnrealCTFCharacter.cpp">
+      <Filter>Source\UnrealCTF</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCTF\UnrealCTFCharacter.h">
+      <Filter>Source\UnrealCTF</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealCTF\UnrealCTFGameMode.cpp">
+      <Filter>Source\UnrealCTF</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCTF\UnrealCTFGameMode.h">
+      <Filter>Source\UnrealCTF</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealCTF\Private">
+      <UniqueIdentifier>{87B272BF-98D0-3689-BC19-391E8EA7C669}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\ClientObject.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\DropZone.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\FlagScript.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\GrenadeScript.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\PickupClass.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\PlayerClientScript.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\PlayerCombat.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\PlayerStats.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\ServerManager.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealCTF\Private\UIManager.cpp">
+      <Filter>Source\UnrealCTF\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealCTF\Public">
+      <UniqueIdentifier>{67C7C9B8-81D0-3DE2-A568-FAE77AF04BBA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\ClientObject.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\DropZone.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\FlagScript.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\GrenadeScript.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\PickupClass.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\PlayerClientScript.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\PlayerCombat.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\PlayerStats.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\ServerManager.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealCTF\Public\UIManager.h">
+      <Filter>Source\UnrealCTF\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
